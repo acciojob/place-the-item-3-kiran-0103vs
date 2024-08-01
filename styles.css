@@ -7,6 +7,7 @@
     justify-content: space-between; /* Distributes items evenly in the row */
 }
 
+
 .holder .item {
     flex: 1 1 30%; /* Allows items to grow and shrink with a basis of 30% */
     box-sizing: border-box; /* Ensures padding and border are included in the width and height */
